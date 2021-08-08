@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 344 272" width="344" height="272">
+	<title>Categories</title>
+	<defs>
+		<image width="86" height="68" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAABECAYAAAAbSMJnAAAAAXNSR0IArs4c6QAAAnJJREFUeF7tnEFOwzAQRW2pYkUlKmDfnoo7kBUnYZVDcKr2AEQFdYMAKSgUosRxnPFkxmna3xVq7fHk5Y/jGZtY0/is88ODNSY3xtw2v8ffgwSK0phsly1f/lvaZpdNfngF1EGIfQ2Kbba86wNbss2io9lmy1qormIBdoRA6GDLxbr8+ngfMdZZd7VXi33zAslgy8/v1e5p9XbWdEZc3CY/tCIcYEfAdB72ACvEsmUGitWgaowBWIBVIqBkFoqdA9iE9YRO/j1RXaPXD1HFJq4ntPLvCesaXj+kwSZNe5uL7tAaUinaa7M+PwBWgHpysFXaK+B3bSKUf4cUO4UfqortC1Uu7JCz1HSSO3asfYBlkKbcYIAF2HD+HRuqDJ51Fyj2D8UUcz2mAoZ0oVgoliYbilIqS9R2tFG7rSj2MRUw6AIspgKabChKwVRAY9lqBbAThiAUC8UeCbhh6DsJQw1VBlOvD9RC98llXgn3sLis59bvd4/MJt7Dmhskrr9FBTbpHhbX07n1A1ilO9YBK713pOT3yZl19+o6YKWfridHQMkhd0oFWCHQACsE0jUDsACrREDJLBQLsEoElMxCsQCrREDJ7KBilca9OLOoFSjdcoAFWCUCSmZR3RICi+qWEEjUCpRAAizAJiKgNMxggoAdBB75aLA4d9AB7f3f2miwOHfgVXCxfby+N9bWRweiwK6f9zfu+owXKOfXq3n8yscpuJkIsP2CkAd7oe/iciNXHOylvosrdBJTZCoA2OP0AMUKPTdHK3bIDyh2iNDx9+hCN8DSwca8jLezMKYNM/9WkYlSYSNS1uDrmuaPLnwFsZx+AN8pyJpXI5onAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Categories">
+		<g id="Categories">
+			<g id="Hotels">
+				<use id="Inteligentny obiekt wektorowy" href="#img1" transform="matrix(4,0,0,4,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>

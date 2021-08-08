@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 96" width="144" height="96">
+	<title>Categories</title>
+	<defs>
+		<image width="36" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAYCAYAAACSuF9OAAAAAXNSR0IArs4c6QAAAFpJREFUSEtjVJz6+T/DIAKMow4iEBuDL4QU+t8LDKIkxMA4mBwDcsuogwjFyGgIEQyh0YJxyBWMgy7KRktqQmmIUDakt/xowUgoxAdfCA26bD/qIELZfrCFEACUZCNVSTSs+AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Categories">
+		<g id="Bottom Menu">
+			<use id="menu (1)" href="#img1" transform="matrix(4,0,0,4,0,0)"/>
+		</g>
+	</g>
+</svg>

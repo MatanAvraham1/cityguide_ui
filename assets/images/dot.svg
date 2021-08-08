@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68" width="68" height="68">
+	<title>Location 1</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b6b6b6 } 
+	</style>
+	<g id="Location 1">
+		<g id="Dots">
+			<path id="Elipsa 2" class="shp0" d="M36 68C18.3 68 4 53.7 4 36C4 18.3 18.3 4 36 4C53.7 4 68 18.3 68 36C68 53.7 53.7 68 36 68Z" />
+		</g>
+	</g>
+</svg>
